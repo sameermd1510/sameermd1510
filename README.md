@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 <!---p align="left"> <a href="https://twitter.com/iamnrp9" target="blank"><img src="https://img.shields.io/twitter/follow/iamnrp9?logo=twitter&style=for-the-badge" alt="iamnrp9" /></a> </p--->
 
 
-- 💬 Ask me about **C,C++,Java,Data Structure and Algorithm, SpringMVC and Spring Boot,React.js **
+- 💬 Ask me about **C,C++,Java,Data Structure and Algorithm, SpringMVC and Spring Boot,React.js**
 
 - 📫 How to reach me **mdsameer312398@gmail.com**
 
